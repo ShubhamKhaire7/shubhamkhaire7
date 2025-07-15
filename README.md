@@ -1,5 +1,5 @@
-# 💫 About Me:
-’m Shubham Khaire, a detail-oriented and data-driven engineering graduate with hands-on experience in data analytics, machine learning, workflow automation, and AI agents. I specialize in tools like Power BI, Python, SQL, and Microsoft Azure, and have a strong passion for transforming data into actionable business insights. With real-world internship experience and academic projects, I bring a problem-solving mindset and a drive to deliver smart, automated, and impactful data-driven solutions.<br><br><br>
+# About Me:
+I’m Shubham Khaire, a detail-oriented and data-driven engineering graduate with hands-on experience in data analytics, machine learning, workflow automation, and AI agents. I specialize in tools like Power BI, Python, SQL, and Microsoft Azure, and have a strong passion for transforming data into actionable business insights. With real-world internship experience and academic projects, I bring a problem-solving mindset and a drive to deliver smart, automated, and impactful data-driven solutions.<br><br><br>
 
 
 ## 🌐 Socials:
