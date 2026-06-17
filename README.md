@@ -121,7 +121,6 @@ class ShubhamKhaire:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShubhamKhaire7&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
 ---
 
 <!-- ===== FOOTER ===== -->
