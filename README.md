@@ -8,7 +8,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;Turning+Messy+Data+into+Intelligence+%F0%9F%93%8A;RAG+%7C+Multi-Agent+%7C+Automation+%E2%9A%A1;Ship+Models%2C+Not+Just+Dashboards+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<!-- ===== PROFILE VIEWS + FOLLOW ===== -->
+<!-- ===== PROFILE VIEWS ===== -->
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=36BCF7&style=flat)
 
 </div>
@@ -53,18 +53,20 @@ class ShubhamKhaire:
 #### 🤖 AI & Agentic Engineering
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrewAI-FF5A5F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CrewAI-FF5A5F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MCP-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
 #### 🧠 ML / Data Science
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,python" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
@@ -80,15 +82,23 @@ class ShubhamKhaire:
 
 #### ☁️ Cloud · MLOps · Automation
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes" />
+  <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" />
 </p>
 
 #### 🗄️ Databases & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,fastapi,react,git" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -102,12 +112,6 @@ class ShubhamKhaire:
 
 </div>
 
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ## 🏆 Trophies
@@ -115,23 +119,6 @@ class ShubhamKhaire:
 <div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff)
-
-</div>
-
-<!-- ===== SNAKE ANIMATION (needs a GitHub Action — see notes) ===== -->
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
