@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;Turning+Messy+Data+into+Intelligence+%F0%9F%93%8A;RAG+%7C+Multi-Agent+%7C+Automation+%E2%9A%A1;Ship+Models%2C+Not+Just+Dashboards+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- ===== PROFILE VIEWS ===== -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=36BCF7&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=ShubhamKhaire7&label=Profile%20Views&color=36BCF7&style=flat)
 
 </div>
 
